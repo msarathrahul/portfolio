@@ -1,5 +1,5 @@
 import streamlit as st
-from PIL import Image
+#from PIL import Image
 
 # Set page title and favicon
 st.set_page_config(page_title="Sarath Rahul Malla Portfolio")
@@ -8,14 +8,14 @@ st.set_page_config(page_title="Sarath Rahul Malla Portfolio")
 col1, col2 = st.columns(2)
 
 # Load profile image
-image = Image.open('image.PNG')
+#image = Image.open('image.PNG')
 
 # Display profile image in the first column
-with col1:
-    st.image(image, width=250)
+#with col1:
+    #st.image(image, width=250)
 
 # Display name and contact information in the second column
-with col2:
+with col1:
     # Page title with Markdown styling
     st.markdown("# Sarath Rahul Malla")
     
