@@ -32,8 +32,9 @@ st.write("Interned as **Junior Data Scientist** at The University of Edinburgh, 
 
 st.markdown("---")
 
-st.markdown("## Check sidebar(On left) for mare details")
+st.markdown("## Check sidebar (on left) for more details")
 
+st.markdown("---")
 # Sidebar for navigation
 st.sidebar.title("Portfolio Navigation")
 selected_section = st.sidebar.radio("Go to", ["Experience :briefcase:", "Data Science Projects :rocket:", "Technical Skills :computer:", "Education :mortar_board:", "Achievements and Awards :star:", "Contact Me :email:"])
