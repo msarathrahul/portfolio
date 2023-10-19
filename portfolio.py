@@ -79,6 +79,14 @@ if selected_section == "Experience :briefcase:":
 elif selected_section == "Data Science Projects :rocket:":
     st.markdown("## Data Science Projects :rocket:")
 
+    #Unsupervised Feature Ranking and Clustering of Medical Microwave Radiometry Breast Cancer Data
+    st.markdown("### Unsupervised Feature Ranking and Clustering of Medical Microwave Radiometry Breast Cancer Data")
+    st.write("Led a comprehensive Machine Learning project focusing on a range of dimensionality reduction algorithms to handle high-dimensional data. Successfully processed and analyzed two datasets comprising 55,000 (unlabelled) and 5,000 (labelled) observations, respectively.  🩺")
+    st.write("- Developed an Auto Encoder with a mean absolute loss of 0.4 and a 6-dimensional latent space, effectively reducing the original 48 dimensions by 0.125 percent.")
+    st.write("- Engineered and integrated additional layers into the Autoencoder to predict the likelihood of breast cancer, utilizing labeled data for improved accuracy.")
+    st.write("- Employed the AUC curve to establish a threshold of 0.37 for identifying instances with a high probability of breast cancer, enabling effective risk assessment and early detection.")
+
+
     #ECG Abnormality Detection Using LSTM Neural Network
     st.markdown("### Electrocardiogram(ECG) Abnormality Detection Using LSTM Neural Network")
     st.write("Spearheaded the development and deployment of an LSTM (Long Short-Term Memory) neural network to detect cardiac abnormalities in ECG signals. [Click here](https://github.com/msarathrahul/anomaly_detection_ECG) 🩺")
