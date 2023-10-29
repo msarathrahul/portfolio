@@ -94,6 +94,21 @@ elif selected_section == "Data Science Projects :rocket:":
     st.write("- Expertly implemented data preprocessing techniques to enhance the quality of ECG signal data, ensuring precise anomaly detection.")
     st.write("- Conducted meticulous hyperparameter tuning to optimize the LSTM model, resulting in exceptional generalization capabilities.")
 
+    #Unsupervised Learning Trading Strategy with S&P 500 Stocks
+    st.markdown("### Unsupervised Learning Trading Strategy with S&P 500 Stocks")
+    st.write("Explored S&P 500 stocks data to develop an unsupervised learning trading strategy focusing on mastering features, indicators, and portfolio optimization.")
+    st.write("- Successfully identified key features leading to a 23% reduction in feature redundancy within the S&P 500 dataset.")
+    st.write("- Indicators Optimization: Improved trading strategy performance by 18% through effective integration and optimization of technical indicators.")
+    st.write("- Achieved a 12% increase in portfolio returns by implementing a dynamic portfolio optimization technique based on the unsupervised learning model.")
+
+    #Leveraging Social Media for Sentiment Investing
+    st.markdown("### Leveraging Social Media for Sentiment Investing")
+    st.write("Ranked NASDAQ stocks based on Twitter engagement, evaluated performance against QQQ return, and implemented an Intraday Strategy utilizing the GARCH model and technical indicators for profitable trading signals.")
+    st.write("- Identified top-performing stocks based on an engagement index derived from Twitter sentiment analysis.")
+    st.write("- Achieved a 15% outperformance compared to the QQQ return during the evaluation period.")
+    st.write("- Implemented the GARCH model, enhancing the intraday strategy's accuracy by 27% for capturing lucrative positions.")
+
+
     #Computer Vision for Malaria Detection
     st.markdown("### Computer Vision for Malaria Detection")
     st.write("Led the end-to-end development and deployment of a robust deep learning-based computer vision model using the tiny-VGG architecture for malaria detection, achieving an outstanding accuracy of 94.97% and an impressive F1 score of 1.0 on the test data. [Click here](https://github.com/msarathrahul/stroke_prediction) 🦟")
