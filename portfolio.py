@@ -43,8 +43,17 @@ selected_section = st.sidebar.radio("Go to", ["Experience :briefcase:", "Data Sc
 if selected_section == "Experience :briefcase:":
     st.markdown("## Experience :briefcase:")
 
+    st.markdown("### Data Scientist - HubbleHox Technologies Pvt. Ltd")
+    st.write("**Jan 2024 - Till date**")
+    st.write("**Mumbai, India**")
+    st.write("Engaged with the dynamic Data Science team at HubbleHox Technologies, leveraging the capabilities of Large Lan- guage Models to create innovative AI-assisted applications that enrich student learning and experiences.")
+    st.write("1. **LLM - AI powered query Assistant**")
+    st.write("Implemented the creation and refinement of an AI-Powered Query Assistant utilizing LangChain and OpenAI’s Large Language Models. This system is intricately linked to a vector database through RAG, with the primary goal of enhancing the learning experience for students in an optimal manner.")
+    st.write("- Executed rigorous A/B testing, involving a sizable cohort of 20,000+ students, resulting in a significant 37% increase in user engagement and 22% improvement in overall satisfaction with the optimized query assistant UI.")
+    
+
     # University of Edinburgh Internship
-    st.markdown("### Junior Data Scientist - DSU (Intern) - University of Edinburgh")
+    st.markdown("### Junior Research Assistant - Data Science Unit - University of Edinburgh")
     st.write("**June 2023 - July 2023**")
     st.write("**Edinburgh, UK**")
     st.write("I interned as a Junior Data Scientist at the University of Edinburgh, where I worked on the following projects:")
@@ -71,6 +80,7 @@ if selected_section == "Experience :briefcase:":
     st.write("**Feb 2021 - Aug 2022**")
     st.write("**Chennai, India**")
     st.write("During my time at Cognizant, I worked on the following tasks:")
+    st.write("- Applied unsupervised machine learning techniques like clustering, anomaly detection to analyze large and com- plex financial data, revealing complex relationships, insights, key trends, and patterns.")
     st.write("- Implemented performance tuning techniques such as indexing and query optimization to improve speed and efficiency of SQL queries, resulting in 30% reduction in query execution time.")
     st.write("- Ensured proper functionality of automated nightly jobs through effective utilization of Control-M application.")
     st.write("- Collaborated with a team of 10 members to successfully transition a company from On-Premise to Cloud-based infrastructure, resulting in 20% reduction in infrastructure costs and improved system performance.")
