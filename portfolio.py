@@ -28,7 +28,7 @@ with col1:
 
 # About Me section
 st.markdown("## About Me :wave:")
-st.write("Interned as **Junior Data Scientist** at The University of Edinburgh, driven to build reliable models for effective Decision making. Strong expertise in Data preprocessing, Feature engineering, and Data visualization. Adept at translating data-driven insights into actionable recommendations. 💼")
+st.write("Experienced Data Scientist with a strong statistical foundation, strategic thought leadership, and agile project management skills. Proficient in Machine Learning, Deep Learning, Natural Language Processing and Generative AI, adept at delivering impactful projects in research and commercial settings. Well-versed in Data preprocessing and Feature engineering. Demonstrated a proven ability to generate actionable insights that drive business impact, ensuring trust and safety through effective fraud and abuse prevention. 💼")
 
 st.markdown("---")
 
@@ -80,7 +80,10 @@ if selected_section == "Experience :briefcase:":
     st.write("**Feb 2021 - Aug 2022**")
     st.write("**Chennai, India**")
     st.write("During my time at Cognizant, I worked on the following tasks:")
-    st.write("- Applied unsupervised machine learning techniques like clustering, anomaly detection to analyze large and com- plex financial data, revealing complex relationships, insights, key trends, and patterns.")
+    st.write("- Developed and deployed collaborative filtering recommendation engines, leading to a 20% spike in customer engagement, $3 million in additional revenue, and fostered long-term loyalty by suggesting relevant products that resonated with individual customer preferences.")
+    st.write("- Built a natural language processing (NLP) model to analyze transaction reports, identifying suspicious activity 10x faster and achieving 98% accuracy, saving compliance costs and minimizing regulatory risks.")
+    st.write("- Developed ML models (e.g., Random Forests, Support Vector Machines) that reduced fraudulent transactions by 35%, saving the company $2 million annually and protecting customer data.")
+    st.write("- Applied unsupervised machine learning techniques like clustering, anomaly detection to analyze large and complex financial data, revealing complex relationships, insights, key trends, and patterns.")
     st.write("- Implemented performance tuning techniques such as indexing and query optimization to improve speed and efficiency of SQL queries, resulting in 30% reduction in query execution time.")
     st.write("- Ensured proper functionality of automated nightly jobs through effective utilization of Control-M application.")
     st.write("- Collaborated with a team of 10 members to successfully transition a company from On-Premise to Cloud-based infrastructure, resulting in 20% reduction in infrastructure costs and improved system performance.")
